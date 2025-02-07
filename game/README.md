@@ -7,7 +7,7 @@ In each turn,
 * If the Player is right they gain a dollar.
 * If the Player is wrong they lose a dollar
 
-The simulation gives the probabilities and outcomes after 10 turns.
+The simulation gives the probabilities and outcomes after 5 turns.
 
 ## Build
 
