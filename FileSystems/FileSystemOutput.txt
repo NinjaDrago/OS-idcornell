@@ -1,0 +1,405 @@
+PS D:\Documents> python FileSystem.py . --ext .txt
+.\Minecraft BEDROCK commands.txt
+.\Test for File History.txt
+.\Arduino IDE\libraries\readme.txt
+.\Arduino IDE\libraries\AccelStepper\keywords.txt
+.\Arduino IDE\libraries\Adafruit_BusIO\CMakeLists.txt
+.\Arduino IDE\libraries\Adafruit_TCS34725\CMakeLists.txt
+.\Arduino IDE\libraries\Adafruit_TCS34725\license.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\AccelStepper\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\Adafruit_BusIO\CMakeLists.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\Adafruit_TCS34725\CMakeLists.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\Adafruit_TCS34725\license.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\LiquidCrystal_I2C\diff.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\LiquidCrystal_I2C\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\MPU6050\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\NewPing\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\PID\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\PID\README.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\Servo\keywords.txt
+.\Arduino IDE\libraries\CSCI360_EduCar_Software\libraries\Servo\LICENSE.txt
+.\Arduino IDE\libraries\LedControl\keywords.txt
+.\Arduino IDE\libraries\LedControll\keywords.txt
+.\Arduino IDE\libraries\LiquidCrystal_I2C\diff.txt
+.\Arduino IDE\libraries\LiquidCrystal_I2C\keywords.txt
+.\Arduino IDE\libraries\MPU6050\keywords.txt
+.\Arduino IDE\libraries\NewPing\keywords.txt
+.\Arduino IDE\libraries\PID\keywords.txt
+.\Arduino IDE\libraries\PID\README.txt
+.\Arduino IDE\libraries\Servo\keywords.txt
+.\Arduino IDE\libraries\Servo\LICENSE.txt
+.\Arduino IDE\libraries\TETRIX_PULSE\keywords.txt
+.\Arduino IDE\libraries\TETRIX_PULSE\license.txt
+.\Assignment 4\output\A Scandal In Bohemia.txt
+.\Assignment 4\output\Scandal.txt
+.\Assignment 4\output\we.txt
+.\CS3\doc\dicts\british\README_en_GB.txt
+.\CS3\doc\dicts\british\wordlist_marcoagpinto_20200201_233820w.txt
+.\CS3\doc\dicts\english\license.txt
+.\CS3\doc\dicts\english\README.txt
+.\CS3\doc\dicts\english\README_en_US.txt
+.\CS3\doc\dicts\english\WordNet_license.txt
+.\CS3\doc\dicts\french\README_fr.txt
+.\CS3\doc\dicts\german\COPYING_LGPL_v2.0.txt
+.\CS3\doc\dicts\german\COPYING_LGPL_v2.1.txt
+.\CS3\doc\dicts\german\COPYING_OASIS.txt
+.\CS3\doc\dicts\german\README_de_DE_frami.txt
+.\CS3\doc\dicts\german\README_extension_owner.txt
+.\CS3\doc\fonts\ec\00bugs.txt
+.\CS3\doc\fonts\ec\00error.txt
+.\CS3\doc\fonts\ec\00files.txt
+.\CS3\doc\fonts\ec\00inst.txt
+.\CS3\doc\fonts\ec\00readme.txt
+.\CS3\doc\fonts\ec\copyrite.txt
+.\CS3\doc\fonts\ec\dc-chg.txt
+.\CS3\doc\fonts\ec\ec-chg.txt
+.\CS3\doc\fonts\ec\tc-chg.txt
+.\CS3\doc\fonts\lm\lm-hist.txt
+.\CS3\fonts\map\glyphlist\glyphlist.txt
+.\CS3\fonts\map\glyphlist\pdfglyphlist.txt
+.\CS3\fonts\map\glyphlist\texglyphlist.txt
+.\CS3\fonts\source\public\latex-fonts\legal.txt
+.\CS3\MiKTeX2\doc\dicts\british\README_en_GB.txt
+.\CS3\MiKTeX2\doc\dicts\british\wordlist_marcoagpinto_20200201_233820w.txt
+.\CS3\MiKTeX2\doc\dicts\english\license.txt
+.\CS3\MiKTeX2\doc\dicts\english\README.txt
+.\CS3\MiKTeX2\doc\dicts\english\README_en_US.txt
+.\CS3\MiKTeX2\doc\dicts\english\WordNet_license.txt
+.\CS3\MiKTeX2\doc\dicts\french\README_fr.txt
+.\CS3\MiKTeX2\doc\dicts\german\COPYING_LGPL_v2.0.txt
+.\CS3\MiKTeX2\doc\dicts\german\COPYING_LGPL_v2.1.txt
+.\CS3\MiKTeX2\doc\dicts\german\COPYING_OASIS.txt
+.\CS3\MiKTeX2\doc\dicts\german\README_de_DE_frami.txt
+.\CS3\MiKTeX2\doc\dicts\german\README_extension_owner.txt
+.\CS3\MiKTeX2\doc\fonts\ec\00bugs.txt
+.\CS3\MiKTeX2\doc\fonts\ec\00error.txt
+.\CS3\MiKTeX2\doc\fonts\ec\00files.txt
+.\CS3\MiKTeX2\doc\fonts\ec\00inst.txt
+.\CS3\MiKTeX2\doc\fonts\ec\00readme.txt
+.\CS3\MiKTeX2\doc\fonts\ec\copyrite.txt
+.\CS3\MiKTeX2\doc\fonts\ec\dc-chg.txt
+.\CS3\MiKTeX2\doc\fonts\ec\ec-chg.txt
+.\CS3\MiKTeX2\doc\fonts\ec\tc-chg.txt
+.\CS3\MiKTeX2\doc\fonts\lm\lm-hist.txt
+.\CS3\MiKTeX2\doc\latex\geometry\changes.txt
+.\CS3\MiKTeX2\fonts\map\glyphlist\glyphlist.txt
+.\CS3\MiKTeX2\fonts\map\glyphlist\pdfglyphlist.txt
+.\CS3\MiKTeX2\fonts\map\glyphlist\texglyphlist.txt
+.\CS3\MiKTeX2\fonts\source\public\latex-fonts\legal.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-af.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-af.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-as.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-be.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-bg.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-bn.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ca.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ca.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cop.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cs.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cs.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cu.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cu.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-cy.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-da.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-de-1901.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-de-1996.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-de-ch-1901.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-el-monoton.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-el-polyton.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-en-gb.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-en-gb.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-en-us.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-en-us.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-eo.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-es.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-et.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-eu.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-fi-x-school.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-fi.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-fr.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-fur.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ga.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ga.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-gl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-grc.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-gu.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hi.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hr.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hsb.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hsb.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hu.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-hy.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ia.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ia.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-id.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-id.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-is.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-it.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ka.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-kmr.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-kn.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-la-x-classic.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-la-x-liturgic.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-la.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-lt.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-lv.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-mk.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ml.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-mn-cyrl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-mr.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-mul-ethi.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nb.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nb.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nl.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nn.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-nn.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-oc.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-or.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pa.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pi.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pl.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pms.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pt.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-pt.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-rm.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ro.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ru.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ru.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sa.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sh-cyrl.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sh-cyrl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sh-latn.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sh-latn.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sk.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sk.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sq.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sr-cyrl.hyp.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sr-cyrl.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-sv.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-ta.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-te.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-th.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-tk.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-tr.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-uk.pat.txt
+.\CS3\MiKTeX2\tex\generic\hyph-utf8\patterns\txt\hyph-zh-latn-pinyin.pat.txt
+.\CS3\MiKTeX2\tex\generic\pgf\graphdrawing\lua\pgf\gd\examples\example_graph_for_ascii_displayer.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\BidiBrackets.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\BidiMirroring-5-1-0.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\BidiMirroring.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\CaseFolding.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\EastAsianWidth.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\emoji-data.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\GraphemeBreakProperty.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\LineBreak.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\MathClass-15.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\PropList.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\ScriptExtensions.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\Scripts.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\SpecialCasing.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\UnicodeData.txt
+.\CS3\MiKTeX2\tex\generic\unicode-data\WordBreakProperty.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-af.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-af.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-as.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-be.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-bg.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-bn.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ca.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ca.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cop.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cs.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cs.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cu.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cu.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-cy.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-da.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-de-1901.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-de-1996.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-de-ch-1901.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-el-monoton.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-el-polyton.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-en-gb.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-en-gb.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-en-us.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-en-us.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-eo.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-es.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-et.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-eu.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-fi-x-school.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-fi.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-fr.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-fur.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ga.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ga.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-gl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-grc.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-gu.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hi.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hr.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hsb.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hsb.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hu.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-hy.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ia.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ia.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-id.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-id.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-is.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-it.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ka.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-kmr.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-kn.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-la-x-classic.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-la-x-liturgic.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-la.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-lt.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-lv.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-mk.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ml.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-mn-cyrl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-mr.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-mul-ethi.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nb.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nb.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nl.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nn.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-nn.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-oc.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-or.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pa.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pi.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pl.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pms.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pt.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-pt.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-rm.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ro.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ru.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ru.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sa.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sh-cyrl.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sh-cyrl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sh-latn.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sh-latn.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sk.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sk.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sq.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sr-cyrl.hyp.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sr-cyrl.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-sv.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-ta.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-te.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-th.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-tk.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-tr.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-uk.pat.txt
+.\CS3\tex\generic\hyph-utf8\patterns\txt\hyph-zh-latn-pinyin.pat.txt
+.\CS3\tex\generic\pgf\graphdrawing\lua\pgf\gd\examples\example_graph_for_ascii_displayer.txt
+.\CS3\tex\generic\unicode-data\BidiBrackets.txt
+.\CS3\tex\generic\unicode-data\BidiMirroring-5-1-0.txt
+.\CS3\tex\generic\unicode-data\BidiMirroring.txt
+.\CS3\tex\generic\unicode-data\CaseFolding.txt
+.\CS3\tex\generic\unicode-data\EastAsianWidth.txt
+.\CS3\tex\generic\unicode-data\emoji-data.txt
+.\CS3\tex\generic\unicode-data\GraphemeBreakProperty.txt
+.\CS3\tex\generic\unicode-data\LineBreak.txt
+.\CS3\tex\generic\unicode-data\MathClass-15.txt
+.\CS3\tex\generic\unicode-data\PropList.txt
+.\CS3\tex\generic\unicode-data\ScriptExtensions.txt
+.\CS3\tex\generic\unicode-data\Scripts.txt
+.\CS3\tex\generic\unicode-data\SpecialCasing.txt
+.\CS3\tex\generic\unicode-data\UnicodeData.txt
+.\CS3\tex\generic\unicode-data\WordBreakProperty.txt
+.\CSCI 260\First_Database_Ian_Cornell.txt
+.\CSCI 260\waterservices.usgs.gov.txt
+.\CSCI 260\DataBase Student Schedule\Database Student Schedule.txt
+.\CSCI 260\Normalize a database\Normalize a database.txt
+.\CSCI 375\fa24-oop-idcornell\ci-cd-requirements.txt
+.\CSCI 375\fa24-oop-idcornell\requirements.txt
+.\CSCI 375\fa24-oop-idcornell\notebooks\context.txt
+.\CSCI 375\fa24-oop-idcornell\notebooks\filename.txt
+.\CSCI330\fa24-oop-idcornell\ci-cd-requirements.txt
+.\CSCI330\fa24-oop-idcornell\requirements.txt
+.\CSCI330\fa24-oop-idcornell\Assignments\A7-ABC\requirements.txt
+.\CSCI330\fa24-oop-idcornell\Final Solo Test\mud_game_explanation.txt
+.\CSCI330\fa24-oop-idcornell\notebooks\context.txt
+.\CSCI330\fa24-oop-idcornell\notebooks\filename.txt
+.\CSCI_484\Lab_6\received_file.txt
+.\CSCI_484\Lab_6\server_file.txt
+.\Downloads\0135-Dehya (1).txt
+.\Downloads\0135-Dehya.txt
+.\Downloads\dragontoothlees.txt
+.\Downloads\functional_programming_conversation.txt
+.\Downloads\GenshinImpactPack (1).txt
+.\Downloads\GenshinImpactPack.txt
+.\Downloads\link.txt
+.\Downloads\mud_game_explanation.txt
+.\Downloads\NotesForFinal.txt
+.\Downloads\NotesForTest2.txt
+.\Downloads\STLFILESLINK.txt
+.\Downloads\Test3Notes.txt
+.\Downloads\we.txt
+.\Downloads\Basement world-20240819T034256Z-001\Basement world\world\graveyardGhoulingUUIDmapping.txt
+.\Downloads\Basement world-20240819T034256Z-001\Basement world\world\xaeromap.txt
+.\Downloads\Basement world-20240819T034256Z-001\Basement world\world\serverconfig\ftbranks\README.txt
+.\Downloads\LabVIEW-2016\2016\patents.txt
+.\Downloads\LabVIEW-2016\2016LV-WinEng\buildInfo.txt
+.\Downloads\LabVIEW-2016\2016LV-WinEng\patents.txt
+.\Downloads\LabVIEW-2016\2016LV-WinEng\Licenses\FreeType License - English.txt
+.\Downloads\LabVIEW-2016\2016LV-WinEng\Licenses\WordNet 2.1 License - English.txt
+.\Downloads\OneDrive_1_2-5-2024\Problem_1.txt
+.\Downloads\OneDrive_1_2-5-2024\Problem_2.txt
+.\Downloads\OneDrive_1_2-5-2024\Problem_3.txt
+.\Downloads\OneDrive_1_2-5-2024\Problem_4.txt
+.\Downloads\OneDrive_1_2-5-2024\Problem_5.txt
+.\Downloads\Switch_Game_Holders_Link_Sword_and_Shield_4970566\LICENSE.txt
+.\Downloads\Switch_Game_Holders_Link_Sword_and_Shield_4970566\README.txt
+.\Downloads\VSeeFace-v1.13.38c2\DSSbodytrackor2.2\DSSbodytrackor2\DSSbodytracker2_Data\StreamingAssets\mediapipe\handedness.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\Release notes.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\Plugins\x86_64\lib_burst_generated.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Binary\importlib_metadata-1.5.0-py3.7.egg-info\top_level.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Binary\lib2to3\Grammar.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Binary\lib2to3\PatternGrammar.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\ComPtr.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\DShowCapture.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\escapi.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\EVMC4U.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\IL2cppStartProcess.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\LeapMotion.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\libminibmcapture.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\libsvm.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\mgGif.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\NeuronAnimator.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\NotoSansCJK.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\onnxruntime.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\OpenCV.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\OpenSeeFace.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\Pytorch_Retinaface.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\Remedian.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\scikit-image.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\SPCRJoinDynamics.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\Spout4Unity.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\ThunderSVM.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\UnityCapture.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\UnityColorWheel.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\UnityMinimumWindowSize.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\UnityNativeRenderPlugin.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\UnityShaders.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\uOSC.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\uWindowCapture.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\VirtualMotionCaptureProtocol.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\VMagicMirrorConfig.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\VRMQuickMetaLoader.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Licenses\VRMWind.txt
+.\Downloads\VSeeFace-v1.13.38c2\VSeeFace\VSeeFace_Data\StreamingAssets\Strings\ReadMe.txt
+.\Video Game Design\CastletonDownload\Advanced\ai.txt
+.\Video Game Design\Video-Game-Design\IanRelatedInfo.txt
+.\Video Game Design\Video-Game-Design\WorkingCode\Makefile Windows.txt
